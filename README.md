@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h4 style="text-align:center">💻 Languages:</h4>
 <table style="border:none">
     <tr style="vertical-align: middle;">
-        <td style="border:none;">💻 Languages:</td>
         <td style="border:none;"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="height:35px;"></td>
         <td style="border:none;"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="height:35px;"></td>
         <td style="border:none;"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="height:35px;"></td>
