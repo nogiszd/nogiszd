@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there, I'm Dawid 👋
 
 <!--
 **nogiszd/nogiszd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table style="">
+  <tr>
+    <td style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=nogiszd&count_private=true&include_all_commits=true&disable_animations=true&hide_border=true&show_icons=true"></td>
+    <td style="text-align:center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogiszd&layout=compact&hide_border=true"></td>
+  </tr>
+</table>
+
