@@ -6,7 +6,7 @@
     </span>
   </h2>
   <br />
-  <table align="center" style="border: 0;">
+  <!--<table align="center" style="border: 0;">
     <tr style="border: 0;">
       <td style="text-align:center; border: 0">
         <picture>
@@ -21,5 +21,5 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogiszd&layout=compact&hide_border=true&theme=tokyonight">
       </td>
     </tr>
-  </table>
+  </table>-->
 </body>
